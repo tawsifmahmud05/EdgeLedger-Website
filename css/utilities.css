@@ -1,3 +1,4 @@
+/* Text colors */
 .text-primary {
   color: #28a745;
 }
@@ -6,7 +7,7 @@
   color: #0284d0;
 }
 
-/* button */
+/* Button */
 .btn {
   cursor: pointer;
   display: inline-block;
@@ -48,11 +49,11 @@
 }
 
 /* Flex items */
-
 .flex-items {
   display: flex;
   text-align: center;
   justify-content: center;
+  text-align: center;
   height: 100%;
 }
 
@@ -61,7 +62,6 @@
 }
 
 /* Flex columns */
-
 .flex-columns.flex-reverse .row {
   flex-direction: row-reverse;
 }
@@ -113,7 +113,6 @@
 }
 
 /* Section header */
-
 .section-header {
   padding: 30px;
   display: flex;
